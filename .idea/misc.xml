@@ -14,6 +14,15 @@
         <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp-Android/app/src/main/res/layout/list_item_searched_city_temperature.xml" value="0.25" />
         <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.222" />
         <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.222" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.356" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.356" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_search.xml" value="0.356" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/light_blue_square_rounded_shape_bg.xml" value="0.356" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_weather.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/dialog_progress_bar.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/list_item_searched_city_temperature.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ta-za/AndroidStudioProjects/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.356" />
       </map>
     </option>
   </component>
